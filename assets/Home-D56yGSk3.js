@@ -1,4 +1,4 @@
-import{r as l,j as e,u as i,A as c}from"./index-CEvQZFzG.js";const a=({label:s,onClick:t})=>{const[n,o]=l.useState(!1),r=()=>{o(!n),t&&t()};return e.jsx("button",{onClick:r,className:`
+import{r as l,j as e,u as i,A as c}from"./index-NHEkmSwX.js";const a=({label:s,onClick:t})=>{const[n,o]=l.useState(!1),r=()=>{o(!n),t&&t()};return e.jsx("button",{onClick:r,className:`
         px-4 py-2 
         rounded-lg 
         text-white 
